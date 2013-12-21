@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #e9e7e0;
+}
+
+*{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+h1{
+	color: #56958b;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+a{
+	color: #56958b;
+}
+
+a:hover{
+	color: #ffffff;
+	background-color: #56958b;
+}
+
+.implementation{
+	border:dashed 2px #333333;
+	background-color:#CCCCCC;
+	color:#000000;
+	width:50%;
+}
+
+.spacer{
+clear:both;
+height:0px;
+}
+.left{
+	float:left;
+	width:250px;
+}
